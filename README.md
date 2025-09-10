@@ -24,6 +24,6 @@ SciPy → Sparse matrices
 
 **Installation**
 **Clone this repository and install required dependencies:**
-git clone https://github.com/your-username/book-recommendation-system.git
+git clone https://github.com/komall13/Book-Recommendation-System
 cd book-recommendation-system
 pip install -r requirements.txt
